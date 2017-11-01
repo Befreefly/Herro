@@ -18,8 +18,12 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"fjsdkajfkljsdalkfjldksjfksdjk");
+    [self changeColor];
 }
 
+-(void)changeColor{
+    
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
